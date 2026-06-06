@@ -1,0 +1,2188 @@
+{
+  "source_questions_path": "/home/desild/work/research/paper-convo-buddy/paper_questions.json",
+  "output_path": "/home/desild/work/research/paper-convo-buddy/notebooks/paper_qa_batch_results.json",
+  "total_question_pairs": 120,
+  "total_results": 120,
+  "answered": 120,
+  "unmatched_or_failed": 0,
+  "title_to_paper": {
+    "A Survey of Methods for Explaining Black Box Models": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "title": "A survey of methods for explaining black box models.",
+      "normalized_title": "a survey of methods for explaining black box models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "normalized_title": "a taxonomy for design and evaluation of prompt based natural language explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "A comparative study of faithfulness metrics for model interpretability methods": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "normalized_title": "a comparative study of faithfulness metrics for model interpretability methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "A survey of methods for explaining black box models.": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "title": "A survey of methods for explaining black box models.",
+      "normalized_title": "a survey of methods for explaining black box models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "Ai transparency in the age of llms: A human-centered research roadmap": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "normalized_title": "ai transparency in the age of llms a human centered research roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "Beexai: Benchmark to evaluate explainable ai": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "title": "Beexai: Benchmark to evaluate explainable ai",
+      "normalized_title": "beexai benchmark to evaluate explainable ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "Explaining explanations: An overview of interpretability of machine learning": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "title": "Explaining explanations: An overview of interpretability of machine learning",
+      "normalized_title": "explaining explanations an overview of interpretability of machine learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "Exploring evaluation methods for interpretable machine learning: A survey": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "normalized_title": "exploring evaluation methods for interpretable machine learning a survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "Interpretable machine learning: definitions, methods, and applications.": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "title": "Interpretable machine learning: definitions, methods, and applications",
+      "normalized_title": "interpretable machine learning definitions methods and applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "normalized_title": "one explanation does not fit all a toolkit and taxonomy of ai explainability techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "normalized_title": "towards faithfully interpretable nlp systems how should we define and evaluate faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    },
+    "Towards explainable evaluation metrics for machine translation": {
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "title": "Towards explainable evaluation metrics for machine translation",
+      "normalized_title": "towards explainable evaluation metrics for machine translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0
+    }
+  },
+  "results": [
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What exactly do the authors mean by \"faithfulness\" in NLP interpretability?",
+      "answer": "In the context of NLP interpretability, \"faithfulness\" refers to the degree to which an interpretation method accurately represents the reasoning process behind a model's prediction. It is often treated as a binary property, where an interpretation can be classified as either faithful or not. However, the authors suggest that this binary treatment may be unproductive, as fully satisfying the assumptions required for faithfulness is nearly impossible, and it is relatively easy to disprove the faithfulness of an interpretation method through counter-examples.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/c030a34d-5f23-46d7-9379-45eac576ae36",
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How is faithfulness different from related ideas like plausibility, transparency, or usefulness?",
+      "answer": "Faithfulness is distinct from related concepts such as plausibility, transparency, and usefulness in that it should be defined and evaluated explicitly and independently from plausibility. While plausibility pertains to the believability or likelihood of an interpretation, faithfulness focuses on the accuracy and fidelity of that interpretation to the original content. The conflation of these concepts can be harmful, as they represent different aspects of interpretation quality, including readability and faithfulness. Furthermore, a more practical approach to faithfulness suggests a graded criteria that assesses the extent and likelihood of an interpretation being faithful in practice.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/dc9297dd-f511-4fe2-81f8-c0b85fdc0ffe",
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Why do current explanation methods in NLP fail to be faithful?",
+      "answer": "Current explanation methods in NLP fail to be faithful due to several reasons. Firstly, there is a lack of a consistent and formal definition of faithfulness across different explanation techniques, which complicates the evaluation of their effectiveness (E4). Additionally, even methods that are considered \"inherently interpretable\" must be held to the same standards as post-hoc interpretation methods, yet they often do not meet these standards (E1). Furthermore, certain methods, such as heatmap interpretations, may not consistently yield faithful results, leading to a trend of negative outcomes in terms of faithfulness (E3).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/f49fbb70-70fc-440a-8461-785c7935fe81",
+        "https://w3id.org/twc/sudo/kg/section/d1a699d2-b168-4d59-8db9-ee83754a6812",
+        "https://w3id.org/twc/sudo/kg/section/26508557-d2fe-4925-84f2-7d5053332dcc",
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of explanation methods are the authors discussing?",
+      "answer": "The authors discuss two main types of explanation methods: inherently interpretable models and post-hoc interpretation methods. They emphasize that explanations from both types must be evaluated for faithfulness using the same standards. Additionally, they mention the use of attention heat-maps as a specific method for providing explanations, particularly in the context of natural language processing (NLP).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06",
+        "https://w3id.org/twc/sudo/kg/section/f49fbb70-70fc-440a-8461-785c7935fe81",
+        "https://w3id.org/twc/sudo/kg/section/ad44be0f-42b3-46bc-b93b-97008772d92c",
+        "https://w3id.org/twc/sudo/kg/section/d1a699d2-b168-4d59-8db9-ee83754a6812"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How should faithfulness be defined in a way that is precise enough for research use?",
+      "answer": "Faithfulness should be defined explicitly and evaluated independently from plausibility, focusing solely on its own criteria without conflation with other concepts. This approach emphasizes a practical and nuanced methodology for defining and assessing faithfulness, distinct from the influence of interpretative convincing power.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06",
+        "https://w3id.org/twc/sudo/kg/section/c030a34d-5f23-46d7-9379-45eac576ae36",
+        "https://w3id.org/twc/sudo/kg/section/115b530c-022f-405c-9ead-8a09826f5b73",
+        "https://w3id.org/twc/sudo/kg/section/3c6f0253-adab-42a0-a532-55fb07f16932"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What evaluation methods are currently used for faithfulness?",
+      "answer": "The current evaluation methods for faithfulness involve assessing interpretations in a binary manner, determining whether they are strictly faithful or not (E4). Additionally, explanations from both \"inherently interpretable\" models and post-hoc interpretation methods are evaluated using the same set of evaluation techniques (E2). The research community has established working definitions of faithfulness that encapsulate these evaluation methods (E3).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06",
+        "https://w3id.org/twc/sudo/kg/section/f49fbb70-70fc-440a-8461-785c7935fe81",
+        "https://w3id.org/twc/sudo/kg/section/c030a34d-5f23-46d7-9379-45eac576ae36",
+        "https://w3id.org/twc/sudo/kg/section/26508557-d2fe-4925-84f2-7d5053332dcc"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Can faithfulness be measured objectively, or does it inevitably depend on human judgment?",
+      "answer": "The evidence suggests that faithfulness cannot be measured entirely objectively, as it involves human judgment to some extent. While there is a call for a graded criteria to assess the likelihood of an interpretation being faithful (E2), the evaluation of faithfulness should not rely on human-provided gold labels (E4). This indicates a tension between the need for objective measurement and the inherent subjectivity involved in human interpretation (E3). Therefore, faithfulness is influenced by human judgment, even as efforts are made to create more systematic evaluation methods.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06",
+        "https://w3id.org/twc/sudo/kg/section/dc9297dd-f511-4fe2-81f8-c0b85fdc0ffe",
+        "https://w3id.org/twc/sudo/kg/section/6e0e3497-5a0e-4005-9df7-d110eede294e"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How to the authors suggest defining faithfulness?",
+      "answer": "The authors suggest that faithfulness should be defined and evaluated explicitly and independently from plausibility, as there is currently no consistent and formal definition of faithfulness in the literature. They argue that conflating faithfulness with other concepts is harmful and emphasize the need for a clear definition that reflects the assumptions used in the research community.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06",
+        "https://w3id.org/twc/sudo/kg/section/c030a34d-5f23-46d7-9379-45eac576ae36",
+        "https://w3id.org/twc/sudo/kg/section/26508557-d2fe-4925-84f2-7d5053332dcc"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Is \"faithfully interpretable\" achievable for modern deep NLP systems, or only approximately?",
+      "answer": "The evidence suggests that \"faithfully interpretable\" is not fully achievable for modern deep NLP systems, as faithfulness is often treated as a binary property and current interpretation methods are defined in an ad-hoc manner. This indicates that interpretations may only be approximately faithful rather than fully faithful.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "matched_kg_title": "Towards Faithfully Interpretable NLP Systems: How should we define and evaluate faithfulness?",
+      "paper_id": "towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_faithfully_interpretable_nlp_systems_how_should_we_define_and_evaluate_faithfulness",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What does the paper recommendation for designing or evaluating faithful NLP explanations?",
+      "answer": "The paper emphasizes the need for a consistent and formal definition of faithfulness in NLP explanations, as current literature lacks this clarity. It highlights the importance of evaluating faithfulness accurately, noting that misleading evaluations can have serious consequences. Additionally, it cautions against relying solely on HCI-inspired evaluations, which may confuse performance with faithfulness, as they may only reflect a correlation between explanation plausibility and model performance rather than true faithfulness.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/adc204f4-7f4d-4c28-9a9b-b95e8711fe06",
+        "https://w3id.org/twc/sudo/kg/section/f03ebedf-fe68-47dd-bc5b-8ca12ac3e537"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors define a \"black box model\"?",
+      "answer": "The authors define a \"black box model\" as a predictive model, such as a deep neural network (DNN), whose internal workings are not transparent or easily interpretable. This model can be audited or inspected to understand the influence of specific features in the data, and it can be analyzed through processes that provide representations of its properties, either visually or textually. Interpretability can be achieved by generating rules that describe the model's logic at a global level.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/76626ceb-4856-4c82-a031-a42cfc36c343",
+        "https://w3id.org/twc/sudo/kg/sentence/73376ffa-26e8-43fe-8d95-2a5d31bc875c",
+        "https://w3id.org/twc/sudo/kg/sentence/d0de6979-b1cd-4fce-990e-b1cfeab2cd7b",
+        "https://w3id.org/twc/sudo/kg/sentence/24ccf885-902b-469b-a2b7-7d3b95b52fd7"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What taxonomy of explanation methods does the survey use?",
+      "answer": "The evidence provided does not specify a clear taxonomy of explanation methods used in the survey. It discusses certain aspects of explanation methods, such as issues with linear models and specific methodologies for interpreting decision trees, but does not outline a comprehensive classification or taxonomy. Therefore, the information is insufficient to answer the question regarding the taxonomy of explanation methods.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/55320ca7-f30d-42e8-befa-d7ad97daec26",
+        "https://w3id.org/twc/sudo/kg/sentence/f78972af-69bd-472f-a543-0f6e198326c0",
+        "https://w3id.org/twc/sudo/kg/section/2353190d-29e0-4328-b4c2-c1261dfd5ffd",
+        "https://w3id.org/twc/sudo/kg/sentence/c1a139b8-b9d7-4965-841e-84062f3c8d05"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the paper cover both global and local explanations?",
+      "answer": "Yes, the paper covers both global and local explanations. It discusses solutions that can provide either type of explanation (E1), presents the LIME approach for local explanations (E2), recognizes decision trees as interpretable models for both global and local explanations (E3), and mentions the availability of symbolic interpretations for both types of explanations (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/a58878c6-c508-40fa-8ff1-e2b5d24700ec",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/c260da3c-df84-4a10-ab15-19a59503e1ee",
+        "https://w3id.org/twc/sudo/kg/sentence/884761d4-9200-4060-8c93-ded39d0901a0"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How does it compare model-specific versus model-agnostic explanation methods?",
+      "answer": "Model-specific explanation methods are tailored to particular types of models, such as Naive Bayes, as described in Reference [29], where a method is proposed for explaining individual predictions of any black box based on this specific model. In contrast, model-agnostic explanation methods, like the Local Interpretable Model-agnostic Explanations (LIME) approach referenced in [98], are designed to be independent of the model type, data type, and the local predictor used for explanations. This distinction highlights that model-specific methods may offer deeper insights for particular models, while model-agnostic methods provide broader applicability across various models.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/fc340da7-5a77-44cc-995d-1f8bafe6bc3b",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/bb16f2e7-5969-41a8-a6d5-371053ff5fe7",
+        "https://w3id.org/twc/sudo/kg/sentence/d3b6ad91-4c7c-41b4-b45e-8913c87265ae"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of data modalities are included?",
+      "answer": "The evidence does not specify the exact kinds of data modalities included in the dataset or the types of data used as input for the black boxes analyzed in the survey. Therefore, I cannot provide a definitive answer regarding the data modalities.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/279c2745-feb0-4d6c-9e42-a59a52897716",
+        "https://w3id.org/twc/sudo/kg/sentence/2a4ed0b2-d786-416a-83f2-edf2cdf6fd4e",
+        "https://w3id.org/twc/sudo/kg/sentence/45067eb2-8f26-46fb-8ce9-13aed7581b57",
+        "https://w3id.org/twc/sudo/kg/sentence/959b97f3-1c1f-47be-b345-346e9735fe03"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the survey discuss how to evaluate explanation quality?",
+      "answer": "The survey does not explicitly discuss how to evaluate explanation quality. It mentions different types of explanations and their purposes but does not provide criteria or methods for assessing the quality of those explanations.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/88df815e-afd0-4ccb-bb75-6347459ea650",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/d6d1f4c0-59fa-4df5-9700-181e086a2f24",
+        "https://w3id.org/twc/sudo/kg/sentence/ef436ce0-156e-46fb-89bf-1a67dea29d7c"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Which major methods are covered?",
+      "answer": "The major methods covered include:\n\n1. **Bayesian Decision Tree Ensembles** - This method involves calculating classification confidence for each tree in the ensemble and selecting the tree that maximizes correct classifications while minimizing misclassifications.\n\n2. **Generalized Additive Models (GAMs)** - This method interprets regression splines (both linear and logistic), as well as various tree ensembles, including bagged trees, boosted trees, boosted bagged trees, and random forests.\n\nThe evidence does not provide additional details on other specific methods.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/f78972af-69bd-472f-a543-0f6e198326c0",
+        "https://w3id.org/twc/sudo/kg/sentence/2aecf19c-76f5-40b3-a08c-9c76303b9796",
+        "https://w3id.org/twc/sudo/kg/sentence/2880957d-86ff-43b2-a0a1-3c17b707fd40",
+        "https://w3id.org/twc/sudo/kg/sentence/c1a139b8-b9d7-4965-841e-84062f3c8d05"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the survey distinguish between types of explanations?",
+      "answer": "Yes, the survey distinguishes between types of explanations. It identifies two high-level categories: reverse engineering and design of explanations. Additionally, it proposes a classification based on the type of problem faced and the explanation adopted to open the black box.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/b8785171-3257-45fa-8d72-bdf2a95f8dbc",
+        "https://w3id.org/twc/sudo/kg/sentence/959b97f3-1c1f-47be-b345-346e9735fe03",
+        "https://w3id.org/twc/sudo/kg/sentence/88df815e-afd0-4ccb-bb75-6347459ea650",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What limitations or risks of existing black-box explanation methods are there?",
+      "answer": "The provided evidence does not explicitly outline the limitations or risks of existing black-box explanation methods. It discusses various methods for explaining black boxes and categorizes them, but does not detail any specific drawbacks or concerns associated with these methods. Therefore, the evidence is insufficient to answer the question regarding limitations or risks.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/b958c768-1109-47b6-87c5-bb9d1dad5fa9",
+        "https://w3id.org/twc/sudo/kg/sentence/fc340da7-5a77-44cc-995d-1f8bafe6bc3b",
+        "https://w3id.org/twc/sudo/kg/sentence/bb16f2e7-5969-41a8-a6d5-371053ff5fe7",
+        "https://w3id.org/twc/sudo/kg/sentence/add6280a-622f-460f-a3dc-3c90860c0fc1"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A survey of methods for explaining black box models.",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What open research challenges or future directions does the survey highlight?",
+      "answer": "The survey highlights open research questions and future research directions in Section 10, which summarizes crucial aspects from the analysis of the state of the art. However, specific details regarding the identified challenges or directions are not provided in the supplied evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/704061ed-aa83-4fc3-a1d0-4af34de0fe24",
+        "https://w3id.org/twc/sudo/kg/sentence/88df815e-afd0-4ccb-bb75-6347459ea650",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/0c3d1e8a-5efd-42cd-bc5f-99c71df57311"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors define interpretability in machine learning?",
+      "answer": "The authors define interpretability in machine learning as a concept that is part of a broader data science life cycle, emphasizing its importance in understanding the relationships learned by machine learning models. They also note that interpretability is a rapidly evolving field, with various works exploring different aspects of it, often referred to as explainable AI.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/e4e86c09-249f-489c-9597-b4bd90523788",
+        "https://w3id.org/twc/sudo/kg/section/3260fffd-e27e-4b87-94f3-658a608a814b",
+        "https://w3id.org/twc/sudo/kg/section/2590dd1e-50ad-4368-98cc-28c97ed0435f",
+        "https://w3id.org/twc/sudo/kg/section/78a23c60-e017-46fa-9734-9f0faac6ce77"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What distinctions do they draw between interpretability and related concepts?",
+      "answer": "The paper distinguishes interpretability from related concepts by identifying two main classes of interpretation methods: model-based and post hoc methods. Additionally, it notes that causal inference and stability are closely related areas that are distinct from interpretability. Causal inference, in particular, is described as a subject from statistics that relates to but is not the same as interpretable machine learning.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/bb5a8444-8d93-4a67-b435-defdc33e5cef",
+        "https://w3id.org/twc/sudo/kg/section/e4e86c09-249f-489c-9597-b4bd90523788",
+        "https://w3id.org/twc/sudo/kg/section/78a23c60-e017-46fa-9734-9f0faac6ce77",
+        "https://w3id.org/twc/sudo/kg/section/6c4db506-499e-495c-ac21-fefb233dcafa"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What taxonomy of interpretable machine learning methods does the paper propose?",
+      "answer": "The paper does not provide a specific taxonomy of interpretable machine learning methods. It discusses the concept of interpretability within the context of machine learning and mentions various aspects of interpretation methods, particularly focusing on post hoc interpretations of deep learning models. However, no formal classification or taxonomy is detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/3260fffd-e27e-4b87-94f3-658a608a814b",
+        "https://w3id.org/twc/sudo/kg/section/e4e86c09-249f-489c-9597-b4bd90523788",
+        "https://w3id.org/twc/sudo/kg/section/78a23c60-e017-46fa-9734-9f0faac6ce77"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What is the difference between inherently interpretable models and post-hoc explanation methods?",
+      "answer": "Inherently interpretable models, also referred to as model-based interpretability methods, are designed to be understandable from the outset, often sacrificing some predictive accuracy for increased descriptive clarity (E3). In contrast, post-hoc explanation methods are applied after a model has made predictions, focusing on elucidating individual predictions by identifying the features and interactions that contributed to those outcomes (E4). Thus, the key difference lies in the timing and approach: inherently interpretable models are built for clarity, while post-hoc methods aim to explain the workings of pre-existing models.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/78a23c60-e017-46fa-9734-9f0faac6ce77",
+        "https://w3id.org/twc/sudo/kg/section/e4e86c09-249f-489c-9597-b4bd90523788",
+        "https://w3id.org/twc/sudo/kg/section/be5ce0d6-c49d-4004-8bd6-775714cb713a",
+        "https://w3id.org/twc/sudo/kg/section/e59851b0-08c2-4c1e-9d0f-4078a4792119"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Which major interpretability methods are covered, and how are they categorized?",
+      "answer": "The major interpretability methods covered are categorized into two main types: prediction-level interpretations and dataset-level interpretations. These are also referred to as local and global interpretations, respectively.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/e59851b0-08c2-4c1e-9d0f-4078a4792119",
+        "https://w3id.org/twc/sudo/kg/sentence/a0920065-fff4-4409-acdf-407f04a08b7e",
+        "https://w3id.org/twc/sudo/kg/section/e4e86c09-249f-489c-9597-b4bd90523788"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors suggest evaluating the quality or validity of interpretations?",
+      "answer": "The authors suggest evaluating the quality or validity of interpretations using the Predictive, Descriptive, Relevant (PDR) framework, which includes three key criteria: predictive accuracy, descriptive insight for a specific audience, and relevance to a chosen domain problem. Additionally, they provide an example where a new interpretation method was assessed by its ability to identify meaningful biological interactions, demonstrating its practical applicability in real-world experiments.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/a3979b13-3b22-451e-941f-d6ccddaf07f9",
+        "https://w3id.org/twc/sudo/kg/section/e4e86c09-249f-489c-9597-b4bd90523788",
+        "https://w3id.org/twc/sudo/kg/section/78a23c60-e017-46fa-9734-9f0faac6ce77",
+        "https://w3id.org/twc/sudo/kg/section/6c4db506-499e-495c-ac21-fefb233dcafa"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What application domains are discussed?",
+      "answer": "The evidence provided does not specify particular application domains discussed in the paper. It mentions the process of defining a domain problem and the capabilities of machine learning models in producing knowledge about domain relationships, but does not list specific domains.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/5f36f332-dbdb-4d13-b341-1b33884adfa4",
+        "https://w3id.org/twc/sudo/kg/sentence/28b074fa-7d99-4440-8c9b-e423bec10317",
+        "https://w3id.org/twc/sudo/kg/section/e4e86c09-249f-489c-9597-b4bd90523788"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the paper address trade-offs between interpretability and predictive performance?",
+      "answer": "Yes, the paper addresses trade-offs between interpretability and predictive performance, specifically highlighting the conflict between predictive and descriptive accuracy in model selection (E1). It also notes that relevancy is a key factor in determining this trade-off (E2).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/8af1ca3b-b274-4278-95e6-d1ee3f50e1b1",
+        "https://w3id.org/twc/sudo/kg/section/4d7a1066-b786-4210-9ff5-fd89e7df33db",
+        "https://w3id.org/twc/sudo/kg/section/a9e1a7d0-a278-40d8-b7e4-da331139c4c5",
+        "https://w3id.org/twc/sudo/kg/sentence/471a7a18-c15c-4a64-aed9-06ac1a1a5dd8"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What limitations or pitfalls of current interpretable machine learning methods do the authors identify?",
+      "answer": "The authors identify several limitations of current interpretable machine learning methods. Firstly, existing works often focus on subsets of interpretability rather than addressing the concept as a whole, which results in limited guidance on how interpretability can be effectively integrated into data science life cycles (E1). Additionally, there is a concern regarding \"descriptive accuracy,\" which refers to the extent to which interpretation methods objectively reflect the relationships learned by machine learning models (E2). This suggests that some methods may not adequately capture the true dynamics of the models they aim to interpret. Furthermore, while alternative interpretation methods exist, such as capturing interactions in neural networks or providing textual explanations, these may not fully address the complexities of interpretability (E3). Lastly, the relevance of interpretation methods to real-world problems is crucial, as demonstrated by the evaluation of methods like iterative random forests in practical contexts (E4). However, the evidence does not specify additional pitfalls beyond these points.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/78a23c60-e017-46fa-9734-9f0faac6ce77",
+        "https://w3id.org/twc/sudo/kg/section/3260fffd-e27e-4b87-94f3-658a608a814b",
+        "https://w3id.org/twc/sudo/kg/section/a1c51cbc-6ec6-41da-97da-5e2ecc2dba43",
+        "https://w3id.org/twc/sudo/kg/section/a3979b13-3b22-451e-941f-d6ccddaf07f9"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Interpretable machine learning: definitions, methods, and applications.",
+      "matched_kg_title": "Interpretable machine learning: definitions, methods, and applications",
+      "paper_id": "interpretable_machine_learning_definitions_methods_and_applications",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/interpretable_machine_learning_definitions_methods_and_applications",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What open problems or future research directions does the paper highlight?",
+      "answer": "The paper highlights several open problems and future research directions, particularly in relation to its three main sections: interpretation desiderata, model-based interpretability, and post hoc interpretability. It emphasizes the need for models that accurately represent underlying problems to ensure the validity of subsequent analyses. Additionally, it suggests the importance of demonstrating the relevance of introduced methods in solving real-world domain problems.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/be5ce0d6-c49d-4004-8bd6-775714cb713a",
+        "https://w3id.org/twc/sudo/kg/section/2590dd1e-50ad-4368-98cc-28c97ed0435f",
+        "https://w3id.org/twc/sudo/kg/section/a3979b13-3b22-451e-941f-d6ccddaf07f9"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What categories of evaluation methods for interpretable machine learning does the survey identify?",
+      "answer": "The survey identifies two categories of evaluation methods for interpretable machine learning: qualitative evaluations, which rely on human judgment, and quantitative evaluations, which use computational metrics to assess correctness (fidelity), comprehensibility, and robustness.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/125f8981-d696-4fe2-9803-68132677f036",
+        "https://w3id.org/twc/sudo/kg/section/1bcb579d-0e0b-4839-b64c-8f740ee6688e",
+        "https://w3id.org/twc/sudo/kg/section/e33b6ba6-9ca5-4420-b51f-227fab65450f"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors distinguish between different evaluation ideas?",
+      "answer": "The authors distinguish between different evaluation ideas primarily through the context of alignment and feature attribution. They propose a measure for \"human accuracy\" that assesses the consistency between human-provided labels and those generated by a model, indicating a focus on alignment (E1). Additionally, they reference a task designed by Shrikumar et al. to evaluate various feature attribution methods, highlighting a different aspect of evaluation that pertains to the effectiveness of these methods (E3). Furthermore, they note a potential issue in evaluation when features are removed or perturbed, as this can lead to data distribution mismatches, which is critical for ensuring valid evaluations (E4). Thus, the authors differentiate evaluation ideas based on alignment consistency, feature attribution effectiveness, and the importance of maintaining consistent data distributions.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/d6f81d0f-cd02-4d1a-8180-9c46864ca01a",
+        "https://w3id.org/twc/sudo/kg/sentence/a20f4149-9bfa-4fb5-b615-29e3c133445e",
+        "https://w3id.org/twc/sudo/kg/sentence/d7751737-d910-4f3e-aad7-d596dc9c4457",
+        "https://w3id.org/twc/sudo/kg/sentence/b8583686-7677-4c5c-b779-fd21a6d2e37a"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How does the survey separate evaluation approaches?",
+      "answer": "The survey separates evaluation approaches into several categories. One approach is LIME, which uses qualitative evaluation by approximating the model locally with a simpler model (E1). Another method involves evaluating a decision tree extracted from a random forest on a separate test set to assess how well its predictions align with those of the random forest (E2). Additionally, sanity checks are employed to evaluate explanation approaches through statistical randomization tests, comparing natural experiments to artificially randomized ones (E3). Overall, the survey indicates that a limited number of studies focus on evaluating interpretability methodologies, with only 5% of analyzed publications addressing this aspect (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/a633badd-1d75-4b02-85b0-7d60beab2629",
+        "https://w3id.org/twc/sudo/kg/sentence/cb4c3978-da95-41dc-bf20-294ca0bcd8e2",
+        "https://w3id.org/twc/sudo/kg/sentence/111cabbb-736b-4f9b-b0a5-8ffd0ab3b064",
+        "https://w3id.org/twc/sudo/kg/section/e33b6ba6-9ca5-4420-b51f-227fab65450f"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What metrics are commonly used to assess explanations?",
+      "answer": "Common metrics used to assess explanations include:\n\n1. **Stability/Robustness**: This involves assessing the similarity between instances (either input or explanation) using different similarity metrics (E1).\n2. **Ablation Studies**: These are used to evaluate the different components of a generative model (E2).\n3. **Fidelity**: This metric ensures that the proxy model accurately captures the decision-making process of the original black-box model, allowing for a better understanding of the target model (E3).\n4. **Change in Prediction Probability (CPP)**: This metric evaluates the change in prediction probability as a result of the explanation (E4).\n5. **Number of Label-Changed Instances (NLCI)**: This metric counts the instances where the label changes due to the explanation (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/1ca10b57-9393-46c7-8635-5292c0497d26",
+        "https://w3id.org/twc/sudo/kg/sentence/c29e204b-9afb-4957-b3a8-0991d4990dda",
+        "https://w3id.org/twc/sudo/kg/sentence/07efcbb2-a324-4ad4-abe8-9f6fcaaf7138",
+        "https://w3id.org/twc/sudo/kg/sentence/9f878519-a832-4920-9f92-5b388dd3b5d0"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do evaluation methods differ across explanation types?",
+      "answer": "Evaluation methods differ across explanation types in that specific metrics are tailored to the characteristics of each explanation type. For instance, Montavon et al. evaluated explanation continuity for various methods, indicating a focus on stability and robustness (E1). In contrast, Shrikumar et al. designed a task specifically for evaluating feature attribution methods, highlighting a different evaluative approach (E3). Additionally, saliency methods utilize scores assigned to input variables to assess the fidelity of explanations, further illustrating the diversity in evaluation criteria (E4). However, establishing a universal standard for metrics applicable to all interpretability methods remains challenging due to the varied nature of these approaches (E2).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/1ca10b57-9393-46c7-8635-5292c0497d26",
+        "https://w3id.org/twc/sudo/kg/section/125f8981-d696-4fe2-9803-68132677f036",
+        "https://w3id.org/twc/sudo/kg/sentence/d7751737-d910-4f3e-aad7-d596dc9c4457",
+        "https://w3id.org/twc/sudo/kg/sentence/3419bd6a-6190-4fd5-8eaf-583f13c9ed35"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What are the major shortcomings of current evaluation practices in interpretable machine learning?",
+      "answer": "The major shortcomings of current evaluation practices in interpretable machine learning include:\n\n1. **Dominance of Predictive Accuracy**: Historically, predictive accuracy has been the primary evaluation criterion, which is now recognized as insufficient for assessing interpretability alongside other model requirements (E2).\n\n2. **Lack of Comprehensive Evaluation Methods**: While various evaluation methods for interpretability have been proposed, there is still a need for a more robust framework that adequately assesses the interpretability of machine learning models (E1).\n\n3. **Dichotomy in Interpretation Approaches**: The distinction between intrinsic (transparent models) and post hoc (interpretation after model completion) methods may lead to inconsistencies in how interpretability is evaluated and understood (E3).\n\nThese shortcomings highlight the need for a more nuanced approach to evaluating interpretability in machine learning models.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/125f8981-d696-4fe2-9803-68132677f036",
+        "https://w3id.org/twc/sudo/kg/sentence/2136a7ca-e5fa-4002-937f-a8600427f20e",
+        "https://w3id.org/twc/sudo/kg/section/e33b6ba6-9ca5-4420-b51f-227fab65450f"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the survey discuss what the evaluation should depend on?",
+      "answer": "The survey discusses evaluation in terms of two factors: human evaluators and comprehensibility, as indicated in the section on Interpretability Dimensions [E1]. However, it does not provide specific criteria or metrics that the evaluation should depend on beyond these factors.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/1bcb579d-0e0b-4839-b64c-8f740ee6688e",
+        "https://w3id.org/twc/sudo/kg/sentence/07611ee0-81a6-453f-aee1-6b91c332d2c6",
+        "https://w3id.org/twc/sudo/kg/sentence/ca29bc91-7bd3-470f-8b74-fcd4316cbd20",
+        "https://w3id.org/twc/sudo/kg/section/e33b6ba6-9ca5-4420-b51f-227fab65450f"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors treat the relationship between human judgment and objective evaluation metrics?",
+      "answer": "The authors address the relationship between human judgment and objective evaluation metrics by highlighting the importance of alignment between human labels and model outputs, suggesting that \"human accuracy\" can be measured to assess this alignment (E1). They categorize evaluation methods into qualitative (human-based) and quantitative (computational metrics), indicating that both approaches serve different purposes in evaluating interpretability (E2). However, they also note that human evaluations are often conducted on small sample sizes, which may limit their reliability (E3). Furthermore, they caution that relying on human trust as an evaluation metric can introduce bias (E4). Overall, the authors suggest a nuanced relationship where human judgment is valuable but also subject to limitations and biases compared to objective metrics.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/d6f81d0f-cd02-4d1a-8180-9c46864ca01a",
+        "https://w3id.org/twc/sudo/kg/section/1bcb579d-0e0b-4839-b64c-8f740ee6688e",
+        "https://w3id.org/twc/sudo/kg/section/868b4eeb-f5cf-46ec-8286-000b36414edc"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What benchmarks, datasets, or experimental protocols are commonly used for evaluating interpretability methods?",
+      "answer": "The evaluation of interpretability methods commonly utilizes benchmarks and datasets such as synthetic datasets and the ERASER benchmark, which is designed to evaluate rationalized NLP models. Additionally, aspects like explanation accuracy, comprehensiveness, and sufficiency are considered in the assessment of these methods. However, the evidence indicates that only a small percentage of studies focus on evaluating interpretability methodologies.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/e33b6ba6-9ca5-4420-b51f-227fab65450f",
+        "https://w3id.org/twc/sudo/kg/section/1bcb579d-0e0b-4839-b64c-8f740ee6688e",
+        "https://w3id.org/twc/sudo/kg/section/b2bf4fd1-070f-4e20-abbe-4473b44285c9"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "matched_kg_title": "Exploring evaluation methods for interpretable machine learning: A survey",
+      "paper_id": "exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/exploring_evaluation_methods_for_interpretable_machine_learning_a_survey",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What open challenges or research gaps in explanation evaluation does the survey highlight?",
+      "answer": "The survey highlights several open challenges and research gaps in explanation evaluation, primarily centered around the difficulty of evaluating feature attribution methods due to the lack of ground truth. This gap has led some researchers to create datasets with explanations for comparative purposes (E1). Additionally, there is a need for more robust methods to evaluate the fidelity of explanations, as current saliency methods assign scores to input variables but may not fully address the evaluation complexities (E3). Furthermore, the evaluation of explanations on independent test sets, as demonstrated by Tan et al., suggests a potential avenue for further research in validating explanation methods (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/c81c9679-14e8-4ff5-9356-8ec69dc88f90",
+        "https://w3id.org/twc/sudo/kg/sentence/8844d822-fc98-4d01-840d-c7fa8f2a0368",
+        "https://w3id.org/twc/sudo/kg/sentence/3419bd6a-6190-4fd5-8eaf-583f13c9ed35",
+        "https://w3id.org/twc/sudo/kg/sentence/76725076-701b-4940-b4ff-6210c71fbe30"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What taxonomy of AI explainability techniques do the authors propose?",
+      "answer": "The authors propose a simple yet comprehensive taxonomy of AI explainability that considers varied perspectives. This taxonomy is designed to be actionable and may reveal gaps in available explainability techniques. However, the specific categories or elements of the proposed taxonomy are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/fea55a37-040e-47cf-ae65-300a3f4c7379",
+        "https://w3id.org/twc/sudo/kg/section/4fe904d0-d452-441c-989a-daa856871f25",
+        "https://w3id.org/twc/sudo/kg/sentence/4e64206b-380b-46e8-8af0-f072dbea4ebc"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What do the authors mean by the claim that one explanation does not fit all?",
+      "answer": "The claim that \"one explanation does not fit all\" suggests that different contexts, users, and models require tailored explanations rather than a single, static explanation. This is supported by the distinction between static explanations, which do not adapt to user feedback (E1), and self-explaining models that generate local explanations but may lack direct interpretability (E2). The authors imply that the diversity in explainability needs necessitates a taxonomy that accommodates various methods and user expertise levels (E3, E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/270dacc8-2569-4433-8224-d50ecb4f8012",
+        "https://w3id.org/twc/sudo/kg/section/4fe904d0-d452-441c-989a-daa856871f25",
+        "https://w3id.org/twc/sudo/kg/sentence/009fdac6-1210-4705-aba4-50b70a163337"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How does the paper map different explanation techniques to different users, goals, or contexts?",
+      "answer": "The paper maps different explanation techniques to various users, goals, or contexts through the use of storytelling and visual illustrations to guide users of the AIX360 toolkit, catering to different explainability consumers (E1). It emphasizes the importance of interactive explanations, allowing users to drill down or request different types of explanations until they achieve satisfactory understanding (E2). The AIX360 toolkit itself includes eight state-of-the-art explainability algorithms designed to explain AI models or complex datasets in diverse ways, accommodating a wide range of users (E3). Additionally, it highlights the necessity for explainability toolkits to support models built with different frameworks, thus enhancing usability without requiring repeated implementation of algorithms (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/f1536d6d-3aa3-4530-b933-7a4d1b17e8fa",
+        "https://w3id.org/twc/sudo/kg/section/4fe904d0-d452-441c-989a-daa856871f25",
+        "https://w3id.org/twc/sudo/kg/section/af398137-a708-4ba1-ad63-cf0580ad77e8"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of explanation methods are included in the toolkit?",
+      "answer": "The AIX360 toolkit includes various explanation methods, as indicated by the presence of tutorials in Jupyter notebooks that demonstrate different methods across several application domains. Additionally, it features enhancements to individual explainability methods and complementary components, suggesting a diverse range of techniques for model interpretability. However, specific names or types of explanation methods are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/ed5408d1-be58-4f15-982a-c46da752a04c",
+        "https://w3id.org/twc/sudo/kg/sentence/50cb8354-fc28-4696-982b-451e0f81ee7b",
+        "https://w3id.org/twc/sudo/kg/sentence/0da420d2-fac7-4b75-a579-c72c2779965e",
+        "https://w3id.org/twc/sudo/kg/sentence/1e88e45a-8077-4192-8844-648f4d37751c"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the toolkit distinguish between local and global explanations?",
+      "answer": "Yes, the toolkit distinguishes between local and global explanations. It offers methods that provide direct, local, and global post-hoc explainability, as indicated in the evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/ad0ccf94-987d-4d22-b0ce-c0fd4d3ab535",
+        "https://w3id.org/twc/sudo/kg/sentence/ec3d35fa-4879-4063-9813-772fc0e255a3",
+        "https://w3id.org/twc/sudo/kg/section/4fe904d0-d452-441c-989a-daa856871f25"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the toolkit distinguish between model-specific and model-agnostic methods?",
+      "answer": "The evidence provided does not explicitly indicate whether the toolkit distinguishes between model-specific and model-agnostic methods. Therefore, it is unclear based on the supplied information.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/50cb8354-fc28-4696-982b-451e0f81ee7b",
+        "https://w3id.org/twc/sudo/kg/sentence/6d8f0fbb-d188-44f9-b1e3-7a13c0974e1d",
+        "https://w3id.org/twc/sudo/kg/sentence/f186c28a-697f-40e7-8911-ffef1bed9cc3",
+        "https://w3id.org/twc/sudo/kg/sentence/43005559-8ff8-431c-8595-dc1d7bd32332"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors recommend choosing an explanation technique for a particular application or stakeholder?",
+      "answer": "The authors recommend choosing an explanation technique based on the diversity of explainability techniques required by various stakeholders, as highlighted by the AIX360 toolkit's aim to provide a flexible programming interface. Additionally, the choice may depend on whether the explanation technique is general (applicable to any type of machine learning model) or model-specific, indicating that the model used is a critical factor in the selection process. Tutorials aimed at data scientists are also mentioned as a resource for introducing explainability into different application domains.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/4e64206b-380b-46e8-8af0-f072dbea4ebc",
+        "https://w3id.org/twc/sudo/kg/section/4fe904d0-d452-441c-989a-daa856871f25",
+        "https://w3id.org/twc/sudo/kg/sentence/175f9a2f-073e-43d5-bb90-bdb2f4755896",
+        "https://w3id.org/twc/sudo/kg/sentence/08d10590-a3cf-4f42-8bbf-53761cbd628d"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What criteria are used to compare or organize explainability techniques?",
+      "answer": "The criteria used to compare or organize explainability techniques include:\n\n1. **Interpretability Type**: Whether the technique is directly interpretable (intrinsic) or requires post-hoc methods for black-box models.\n2. **Model Dependency**: Whether the explanation technique is applicable to any type of machine learning model (general) or is specific to one type (model specific).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/4fe904d0-d452-441c-989a-daa856871f25",
+        "https://w3id.org/twc/sudo/kg/sentence/8b5ecc62-1e4e-426d-965f-f6c8a8d64f97",
+        "https://w3id.org/twc/sudo/kg/sentence/a45aff31-8285-41ba-b028-498c81d69b85"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the paper provide practical workflows, decision aids, or case studies for selecting explanations?",
+      "answer": "Yes, the paper provides practical workflows and decision aids for selecting explanations. It includes a comprehensive taxonomy that guides practitioners and informs design choices related to explainability software. Additionally, the toolkit features explainability metrics, a credit approval demonstration, tutorials on real-world use cases, and Jupyter notebooks, making it accessible to practitioners and non-experts.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/af398137-a708-4ba1-ad63-cf0580ad77e8",
+        "https://w3id.org/twc/sudo/kg/sentence/6d8f0fbb-d188-44f9-b1e3-7a13c0974e1d",
+        "https://w3id.org/twc/sudo/kg/sentence/1683a9b6-eddc-4fee-bb7d-ed81633b4018"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "matched_kg_title": "One explanation does not fit all: A toolkit and taxonomy of ai explainability techniques",
+      "paper_id": "one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/one_explanation_does_not_fit_all_a_toolkit_and_taxonomy_of_ai_explainability_techniques",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What limitations or open challenges do the authors identify in building a unified toolkit for explainability?",
+      "answer": "The evidence provided does not explicitly identify specific limitations or open challenges in building a unified toolkit for explainability. It mentions the aim of the AIX360 toolkit to accommodate diverse explainability techniques and the release of the toolkit into the open-source community, but does not detail any challenges or limitations encountered in this process. Therefore, the information is insufficient to answer the question regarding limitations or open challenges.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/4e64206b-380b-46e8-8af0-f072dbea4ebc",
+        "https://w3id.org/twc/sudo/kg/section/fea55a37-040e-47cf-ae65-300a3f4c7379",
+        "https://w3id.org/twc/sudo/kg/section/4fe904d0-d452-441c-989a-daa856871f25"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors define interpretability and explanation in machine learning?",
+      "answer": "The authors define interpretability in machine learning as \"the ability to explain or to present in understandable terms to a human.\" They suggest various definitions for explainability, converging on the idea that interpretation involves discovering the evaluations of an explanation.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce",
+        "https://w3id.org/twc/sudo/kg/section/c87b7a7c-00fc-4103-b6b9-60e4a2ad2a47"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of interpretability methods does the overview cover?",
+      "answer": "The overview covers several interpretability methods, including:\n\n1. **Interpretable models and learning methods** - These show promise in providing explanations for model behavior.\n2. **Explanation of representations** - This method addresses what information is contained within the network, akin to explaining internal data structures.\n3. **Automatic-rule extraction** - This method identifies stable intervals that correlate input with predicted classes.\n4. **Visualization of CNN representations** - This includes methods for understanding unit representations in visual CNNs, diagnosing these representations, disentangling representation units, creating explainable models, and facilitating semantic learning through human-computer interaction.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce",
+        "https://w3id.org/twc/sudo/kg/section/9d750fd6-f45b-4656-a515-99c7bd79b3b3",
+        "https://w3id.org/twc/sudo/kg/section/6776e1c6-a003-4c28-865e-d99ae42a6bd1",
+        "https://w3id.org/twc/sudo/kg/section/f6cea74f-c024-479a-89df-e5ea2eac7c7c"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the paper propose a taxonomy for explanations or interpretability approaches?",
+      "answer": "Yes, the paper proposes a taxonomy for explanations and interpretability approaches in AI. It presents a set of definitions and constructs a taxonomy to standardize interpretability and explanatory work, as well as reviews various approaches towards explainable AI systems.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How does it distinguish between transparent models and post-hoc explanation methods?",
+      "answer": "The distinction between transparent models and post-hoc explanation methods is primarily based on the approach to explainability. Transparent models are designed to be inherently interpretable, allowing users to understand their behavior directly. In contrast, post-hoc explanation methods are applied after the model has made decisions, aiming to clarify the reasons behind those decisions without altering the model itself. The evidence categorizes explanation methods into groups, including those that explain black box models and those that design transparent boxes, indicating a clear differentiation in their objectives and methodologies.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/8691f3d4-04cd-4d6c-9471-5f1bce1dc159",
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce",
+        "https://w3id.org/twc/sudo/kg/section/6776e1c6-a003-4c28-865e-d99ae42a6bd1"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What evaluation criteria for explanations are discussed?",
+      "answer": "The paper discusses the proposal of evaluation criteria for standardizing explanatory systems, aiming to set best practices and define key concepts in the context of machine learning and related disciplines. However, specific evaluation criteria are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce",
+        "https://w3id.org/twc/sudo/kg/section/b7f399ee-82fb-4a13-9dee-51339c06bbcf"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the overview address different stakeholders for explanations?",
+      "answer": "The overview does not explicitly address different stakeholders for explanations. It notes that various approaches to explainability are siloed (E1) and provides a summary of related work highlighting differences in key terms (E2), but it does not specify how these approaches relate to different stakeholders. The discussion on open questions and recommendations for explainable methods (E3) does not indicate stakeholder considerations either.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/caa0e1bc-a30b-4a5b-be3f-775a47e8f186",
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce",
+        "https://w3id.org/twc/sudo/kg/section/6b62ba77-2b5a-44a3-9d37-a8b5263a9325"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What are the main limitations or risks of current interpretability methods identified by the authors?",
+      "answer": "The authors identify a limitation in the application of classical AI methods to interpretability, suggesting that broader application of these methods is needed in current research. However, the evidence does not provide specific risks associated with current interpretability methods.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/7396b36e-2653-435d-a1f5-3c6a34c5e671",
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How does the paper treat the relationship between interpretability and trust?",
+      "answer": "The paper discusses the relationship between interpretability and trust by emphasizing the importance of distinguishing between interpretability and explainability. It suggests that while both terms are often used interchangeably, they have meaningful differences that can impact trust. The paper also highlights the need for explanations that balance interpretability and completeness, implying that a well-structured explanation can enhance trust in the system. However, the specific mechanisms by which interpretability influences trust are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce",
+        "https://w3id.org/twc/sudo/kg/section/6b62ba77-2b5a-44a3-9d37-a8b5263a9325",
+        "https://w3id.org/twc/sudo/kg/section/d890273c-f197-4bf3-b589-3878af62f280"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does it discuss application domains where interpretability is especially important?",
+      "answer": "Yes, the paper discusses application domains where interpretability is especially important, specifically mentioning \"safety-critical or mission-critical applications\" in the context of developing and adopting explainable methods.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/731a0083-6338-47a6-981a-3bbba2b620ce",
+        "https://w3id.org/twc/sudo/kg/section/b7f399ee-82fb-4a13-9dee-51339c06bbcf",
+        "https://w3id.org/twc/sudo/kg/section/9d750fd6-f45b-4656-a515-99c7bd79b3b3"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "matched_kg_title": "Explaining explanations: An overview of interpretability of machine learning",
+      "paper_id": "explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/explaining_explanations_an_overview_of_interpretability_of_machine_learning",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What open problems or future directions in interpretability research does the paper highlight?",
+      "answer": "The paper highlights several open problems and future directions in interpretability research, including the need for data-driven approaches for discovery in interpretability, the lack of standardized evaluation metrics, and the potential for research that crosses different areas of the taxonomy of interpretability. Additionally, it emphasizes the importance of exploring large areas such as explainable artificial intelligence (XAI), intelligibility and interpretability in human-computer interaction (HCI), and analysis methods for trends in research topics.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/c87b7a7c-00fc-4103-b6b9-60e4a2ad2a47",
+        "https://w3id.org/twc/sudo/kg/section/075906b4-867f-46cc-8f86-c4592059d73d",
+        "https://w3id.org/twc/sudo/kg/section/f6cea74f-c024-479a-89df-e5ea2eac7c7c",
+        "https://w3id.org/twc/sudo/kg/section/7396b36e-2653-435d-a1f5-3c6a34c5e671"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Which faithfulness metrics are compared in the study?",
+      "answer": "The study compares six widely used faithfulness metrics, although the specific metrics are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/30d57d45-1b38-443a-ba70-6b85ca79dbe7",
+        "https://w3id.org/twc/sudo/kg/section/33950414-44ef-43bd-996c-920cfb738218",
+        "https://w3id.org/twc/sudo/kg/section/b6e25c8b-7e5f-4333-976a-dbc51a65d24e"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors define faithfulness for interpretability methods?",
+      "answer": "The authors define faithfulness for interpretability methods as a measure of how accurately the interpretations reflect the underlying model's decision-making process. They highlight that the definition of faithfulness is often inconsistent and informal, as noted by Jacovi and Goldberg (2020), who provided guidelines for evaluating interpretation methods. The authors categorize interpretations into \"relatively faithful\" and \"relatively unfaithful,\" suggesting that certain methods are more likely to produce faithful interpretations compared to random generation.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/80fac70e-e404-4f42-8844-7882fe393f21",
+        "https://w3id.org/twc/sudo/kg/sentence/a815760c-6783-4075-9b6d-a7f6ca2a9008",
+        "https://w3id.org/twc/sudo/kg/sentence/fd6c901c-b382-4078-ad1a-1f9b09ce7869",
+        "https://w3id.org/twc/sudo/kg/sentence/d047f7a7-870e-42cc-8726-cdda492512a9"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of explanation methods are evaluated with these metrics?",
+      "answer": "The evidence does not specify the exact kinds of explanation methods evaluated with the faithfulness metrics. It mentions evaluating interpretation methods based on their average faithfulness scores but does not provide details on the specific types of methods being assessed.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/adc5c60d-e5cf-4fdc-913d-70c013325e8e",
+        "https://w3id.org/twc/sudo/kg/sentence/6617b644-9ff0-4c3b-96f1-34743e3bbedf",
+        "https://w3id.org/twc/sudo/kg/section/80fac70e-e404-4f42-8844-7882fe393f21",
+        "https://w3id.org/twc/sudo/kg/section/09068d5e-a646-419c-97b4-1052babd698e"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Do the compared metrics agree with each other?",
+      "answer": "The compared metrics do not agree with each other. Existing faithfulness metrics have been observed to be inconsistent and can lead to contradictory conclusions, as evidenced by the conflict between the Sufficiency (SUFF) and Decision Flip -Fraction of Tokens (DFFOT) metrics in the experiments.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/30d57d45-1b38-443a-ba70-6b85ca79dbe7"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What assumptions about models or explanations underlie the different faithfulness metrics?",
+      "answer": "The assumptions underlying the different faithfulness metrics include the reliance on model forward passes as a primary computational component, as indicated by the metrics' definitions and their time complexities (E1, E2). Additionally, there is an assumption that faithful interpretations should be derived from the underlying mechanisms of the classification model, suggesting that the metrics are designed to reflect the model's decision-making process accurately (E3, E4). Thus, the metrics are predicated on the belief that interpretations can and should mirror the model's internal workings.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/7b8f7905-f3c7-4bdd-8963-29d9e319085b",
+        "https://w3id.org/twc/sudo/kg/sentence/f8d1a0a7-961f-4fbd-9551-73dc170c3fcd",
+        "https://w3id.org/twc/sudo/kg/sentence/52adb285-05a4-4886-89e9-85e35a1ba0c7",
+        "https://w3id.org/twc/sudo/kg/sentence/2b994dce-22fb-40d6-a3b3-ebfd62d44f1b"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How sensitive are the metrics to model architecture, data modality, or task type?",
+      "answer": "The sensitivity of the metrics to model architecture, data modality, or task type is indicated by the evaluation of faithfulness metrics across different models, specifically CNN and BERT, as mentioned in the results section (E1). Additionally, the actual time complexities of these metrics, which are influenced by the number of model passes on each dataset, suggest that the metrics may vary based on the architecture and the specific dataset used (E2). However, the evidence does not provide detailed insights into how these factors specifically affect the metrics' sensitivity.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/613fe484-a056-42fd-8115-de81e96c4b4f",
+        "https://w3id.org/twc/sudo/kg/section/80fac70e-e404-4f42-8844-7882fe393f21",
+        "https://w3id.org/twc/sudo/kg/sentence/adc5c60d-e5cf-4fdc-913d-70c013325e8e",
+        "https://w3id.org/twc/sudo/kg/sentence/7b8f7905-f3c7-4bdd-8963-29d9e319085b"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Do the authors analyze whether some faithfulness metrics are more reliable or informative than others?",
+      "answer": "Yes, the authors analyze the reliability and informativeness of different faithfulness metrics. They find that the sufficiency and comprehensiveness metrics outperform other metrics, indicating that these are more diagnostic and less complex.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/fe372fc9-0fbd-468c-b57c-a0a4c13b3904",
+        "https://w3id.org/twc/sudo/kg/sentence/3dc3d549-acf9-4bc3-b146-a45762586838",
+        "https://w3id.org/twc/sudo/kg/section/33950414-44ef-43bd-996c-920cfb738218"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How are perturbation-based or deletion-based metrics implemented?",
+      "answer": "Perturbation-based metrics are implemented by querying the model around a classification instance to infer the importance of input features. Deletion-based metrics, on the other hand, are developed through a removal-based criterion, which measures the changes in model output when tokens identified as important by the interpretation are perturbed or removed.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/80fac70e-e404-4f42-8844-7882fe393f21",
+        "https://w3id.org/twc/sudo/kg/sentence/1396d2a1-aa2b-45b0-a4c4-c498b676f863",
+        "https://w3id.org/twc/sudo/kg/sentence/e02a4a14-4ba9-4e26-a9f0-4516c7b43249",
+        "https://w3id.org/twc/sudo/kg/sentence/c0a77c5d-19de-4991-97c4-028b83d35f47"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the study identify common pitfalls or failure modes in using faithfulness metrics?",
+      "answer": "Yes, the study identifies inconsistencies as a common pitfall in using faithfulness metrics, as noted in the comparative study of six widely used metrics.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/33950414-44ef-43bd-996c-920cfb738218",
+        "https://w3id.org/twc/sudo/kg/section/80fac70e-e404-4f42-8844-7882fe393f21",
+        "https://w3id.org/twc/sudo/kg/sentence/5ff29cbd-754b-4599-b7dc-09c7a67f70e7",
+        "https://w3id.org/twc/sudo/kg/section/30d57d45-1b38-443a-ba70-6b85ca79dbe7"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "matched_kg_title": "A comparative study of faithfulness metrics for model interpretability methods",
+      "paper_id": "a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_comparative_study_of_faithfulness_metrics_for_model_interpretability_methods",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What recommendations do the authors make for selecting faithfulness metrics in future explainability research?",
+      "answer": "The authors recommend that future explainability research should consider two complementary factors when selecting faithfulness metrics: the evaluation of these metrics using a whitebox model, such as linear regression, to derive an intrinsically faithful interpretation as the \"ground truth,\" and the estimation of the ε-diagnosticity of the faithfulness metric. This approach aims to enhance the assessment of the faithfulness of interpretations.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/30ebf97f-a6cc-4a20-9009-a787feaec3fd",
+        "https://w3id.org/twc/sudo/kg/section/09068d5e-a646-419c-97b4-1052babd698e",
+        "https://w3id.org/twc/sudo/kg/sentence/1396d2a1-aa2b-45b0-a4c4-c498b676f863",
+        "https://w3id.org/twc/sudo/kg/sentence/c0a77c5d-19de-4991-97c4-028b83d35f47"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What do the authors mean by an explainable evaluation metric in machine translation?",
+      "answer": "The authors refer to an explainable evaluation metric in machine translation as a metric that provides insights into the reasoning behind the scores it assigns. This allows developers to understand the discrepancies between the metric's predictions and human evaluations, thereby identifying the metric's weaknesses. The goal is to enhance the evaluation process by making it more transparent and informative, which could help address the limitations of traditional low-quality evaluation metrics.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/1573a7ca-e315-4a05-91ee-dd9fd90b7453",
+        "https://w3id.org/twc/sudo/kg/sentence/eaaf64f9-fff9-4fa0-86f3-19cf25d3a12e",
+        "https://w3id.org/twc/sudo/kg/sentence/2bd16a83-9583-4209-a02d-fba8d0b890ef"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Why are existing machine translation evaluation metrics considered insufficiently explainable?",
+      "answer": "Existing machine translation evaluation metrics are considered insufficiently explainable because they often fail to provide insights into why a particular score was assigned, especially when it differs from human assessments. This lack of transparency prevents developers from understanding the weaknesses of these metrics, which could hinder improvements in machine translation systems. The field of explainable evaluation metrics is still nascent, indicating a need for further development to address these shortcomings.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/1573a7ca-e315-4a05-91ee-dd9fd90b7453",
+        "https://w3id.org/twc/sudo/kg/sentence/eaaf64f9-fff9-4fa0-86f3-19cf25d3a12e",
+        "https://w3id.org/twc/sudo/kg/sentence/2bd16a83-9583-4209-a02d-fba8d0b890ef"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of explanations do the proposed metrics aim to provide to researchers?",
+      "answer": "The proposed metrics aim to provide explanations that enhance the understanding of machine translation (MT) metrics for both metric developers and users. They seek to clarify the outputs of MT metrics and make them more comprehensible to various audiences. Additionally, the work aims to offer a systematic overview of existing efforts in explainable MT evaluation metrics and suggest future research directions.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/ef8535c1-343c-4cf5-9d3f-fa009ec46c70",
+        "https://w3id.org/twc/sudo/kg/sentence/39ba025c-e070-4c0a-9194-74299d2092a7",
+        "https://w3id.org/twc/sudo/kg/section/0d3cfb6b-d467-4b3a-b684-6714aef0da56"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the paper focus on explaining metric scores at the sentence level, corpus level, or both?",
+      "answer": "The paper focuses on explaining metric scores at both the sentence level and the corpus level. Evidence indicates that quality aspect explanations can lead to decomposable sentence-level scores (E2), while also discussing general explanations for metric scores (E1) and the relationship between higher granularity scores and lower granularity metrics (E3).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/59a0ef3d-6101-41b2-9807-dbf05d41fbc4",
+        "https://w3id.org/twc/sudo/kg/sentence/0f5b4172-a4a8-4b94-a899-6cd7b85781e2",
+        "https://w3id.org/twc/sudo/kg/sentence/d4fbb2b4-d7a6-48a0-b9a7-f1cd9dd3b34a",
+        "https://w3id.org/twc/sudo/kg/section/ef8535c1-343c-4cf5-9d3f-fa009ec46c70"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How are the explainable metrics constructed?",
+      "answer": "The construction of explainable metrics involves defining explainability within the context of the work, discussing the concepts of faithfulness and plausibility, and contrasting these with robustness and fairness. Additionally, the metrics are structured based on properties such as explanation level, explanation type, model access, and intended audiences. Quality aspect explanations can also be aggregated to compute single, decomposable sentence-level scores, enhancing their explanatory value.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/e99c20be-1d8a-487f-be47-a3266e251cc6",
+        "https://w3id.org/twc/sudo/kg/sentence/0f5b4172-a4a8-4b94-a899-6cd7b85781e2",
+        "https://w3id.org/twc/sudo/kg/sentence/2a9b86e5-2ecc-45f2-a368-be3e48aba155",
+        "https://w3id.org/twc/sudo/kg/sentence/74806173-413c-4e08-97da-c40d7661d005"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Do the authors compare explainable evaluation metrics against standard metrics?",
+      "answer": "The evidence does not explicitly state that the authors compare explainable evaluation metrics against standard metrics. However, it indicates that the authors are focused on explainable evaluation metrics and provide an overview of existing efforts in this area, suggesting a context for comparison may exist. Nonetheless, specific comparisons are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/d5559db3-135f-44bc-9940-63764049123d",
+        "https://w3id.org/twc/sudo/kg/sentence/dd9d5adb-0642-472b-a837-7b5e68da9f57",
+        "https://w3id.org/twc/sudo/kg/section/ef8535c1-343c-4cf5-9d3f-fa009ec46c70"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How is the quality of an explainable evaluation metric assessed?",
+      "answer": "The quality of an explainable evaluation metric is assessed by its ability to identify system quality issues and enhance trust in the evaluation of natural language generation (NLG) systems. This is emphasized by Celikyilmaz et al. (2020), who highlight the necessity of such metrics for achieving higher trust in evaluations. Additionally, the future importance of explainable metrics is underscored, particularly in the context of evaluating the quality and veracity of translated information content. Furthermore, the potential for aggregating separate quality scores into a single, decomposable score indicates a method for assessing the quality of these metrics through their explanatory value and usability.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/ef8535c1-343c-4cf5-9d3f-fa009ec46c70",
+        "https://w3id.org/twc/sudo/kg/section/0d3cfb6b-d467-4b3a-b684-6714aef0da56",
+        "https://w3id.org/twc/sudo/kg/section/1573a7ca-e315-4a05-91ee-dd9fd90b7453",
+        "https://w3id.org/twc/sudo/kg/sentence/0f5b4172-a4a8-4b94-a899-6cd7b85781e2"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Who is the intended audience for the explanations produced by these metrics?",
+      "answer": "The intended audience for the explanations produced by these metrics includes translation experts, as indicated by the emphasis on high average explanation plausibility for this group. Additionally, the explanations aim to help certain audiences understand a model's behavior better, suggesting a broader audience that may include researchers and practitioners in the field of machine translation (MT).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/a0db798b-595b-4ac5-8a7e-d7a662b4a62d",
+        "https://w3id.org/twc/sudo/kg/sentence/74806173-413c-4e08-97da-c40d7661d005",
+        "https://w3id.org/twc/sudo/kg/sentence/39ba025c-e070-4c0a-9194-74299d2092a7",
+        "https://w3id.org/twc/sudo/kg/sentence/edb11283-4e5c-434e-b904-cfe78e19def5"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Do the proposed metrics help identify specific translation errors or weaknesses more effectively than traditional metrics?",
+      "answer": "Yes, the proposed metrics help identify specific translation errors or weaknesses more effectively than traditional metrics. They report multiple quality aspects, such as adequacy and fluency, which provide more explanatory value regarding the quality of a translation compared to metrics that return a single score. This multi-faceted approach allows for a deeper understanding of why a translation may be good or bad, thus facilitating more targeted error correction and improvement.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/b7cf5ef6-3b81-4b7b-b767-b04de4fbbb8c",
+        "https://w3id.org/twc/sudo/kg/sentence/09474623-00c0-4d6d-ae4d-2e63da07ee10",
+        "https://w3id.org/twc/sudo/kg/sentence/dda9b23d-5459-4fbd-a526-64cdaab4797a",
+        "https://w3id.org/twc/sudo/kg/section/19eb3534-4ee6-4932-abc6-0fd788064003"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Towards explainable evaluation metrics for machine translation",
+      "matched_kg_title": "Towards explainable evaluation metrics for machine translation",
+      "paper_id": "towards_explainable_evaluation_metrics_for_machine_translation",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/towards_explainable_evaluation_metrics_for_machine_translation",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What limitations or open challenges do the authors identify in making machine translation evaluation metrics explainable?",
+      "answer": "The authors identify that the field of explainable machine translation metrics is nascent and that there are challenges in overcoming the dominance of classical low-quality evaluation metrics. They suggest that explaining why a metric predicts a certain score, especially when it differs from human assessments, could help developers understand the weaknesses of these metrics. However, specific limitations or open challenges are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/1573a7ca-e315-4a05-91ee-dd9fd90b7453",
+        "https://w3id.org/twc/sudo/kg/sentence/eaaf64f9-fff9-4fa0-86f3-19cf25d3a12e",
+        "https://w3id.org/twc/sudo/kg/sentence/2bd16a83-9583-4209-a02d-fba8d0b890ef"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What dimensions does the proposed taxonomy use to classify prompt-based natural language explanations?",
+      "answer": "The proposed taxonomy for prompt-based natural language explanations (NLEs) classifies them based on their distinct characteristics and governance implications, as well as the nature of the underlying AI task, which includes classification, regression, and detection.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3",
+        "https://w3id.org/twc/sudo/kg/section/69d3c88a-3cf7-4314-9143-36102d35515c",
+        "https://w3id.org/twc/sudo/kg/section/8b1994b7-27dd-454b-bcef-ea829e6c61a4"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors define prompt-based natural language explanations?",
+      "answer": "The authors define prompt-based natural language explanations (NLEs) as textual explanations generated by large language models (LLMs) that are directly prompted and integrated into AI systems. These explanations are characterized by their delivery in natural language rather than structured mathematical formats, such as decision rules or equations.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3",
+        "https://w3id.org/twc/sudo/kg/section/cd39183e-6d09-4d2e-92ef-aa9059bde8f8",
+        "https://w3id.org/twc/sudo/kg/section/7801c3d1-0e5b-46fd-b70c-8312ab91630c",
+        "https://w3id.org/twc/sudo/kg/section/24de9161-232f-43be-984b-b41fdd77b61d"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of prompting strategies or explanation-generation setups are covered by the taxonomy?",
+      "answer": "The taxonomy covers prompting strategies and explanation-generation setups specifically in the context of prompt-based Natural Language Explanations (NLEs). It aims to capture their distinct characteristics and governance implications, adapting existing Explainable AI (XAI) taxonomies to inform the design and evaluation of these systems. The taxonomy aligns explanation strategies with specific audiences and objectives to enhance transparency and accountability.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/7801c3d1-0e5b-46fd-b70c-8312ab91630c",
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the taxonomy address differences between explanations aimed at humans and explanations aimed at improving model behavior?",
+      "answer": "The taxonomy does address differences between explanations aimed at humans and those aimed at improving model behavior. It recognizes that different users, such as developers, require explanations that help identify errors and analyze the model's decision-making process for debugging purposes. This indicates a shift in the goal of explanations depending on the audience, focusing on understanding model behavior for operational needs rather than solely for human comprehension.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/8b1994b7-27dd-454b-bcef-ea829e6c61a4",
+        "https://w3id.org/twc/sudo/kg/section/598535bf-5655-4e9c-b0de-d8caeb0b46d9",
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors recommend evaluating prompt-based natural language explanations?",
+      "answer": "The authors recommend evaluating prompt-based natural language explanations (NLEs) by adapting existing explainable AI (XAI) taxonomies to this specific context. This adaptation aims to inform the design and evaluation of NLEs, ensuring they align with capacities such as access and verification, which facilitate interaction and substantiate claims about system behavior.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3",
+        "https://w3id.org/twc/sudo/kg/section/cd39183e-6d09-4d2e-92ef-aa9059bde8f8",
+        "https://w3id.org/twc/sudo/kg/section/7801c3d1-0e5b-46fd-b70c-8312ab91630c"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What criteria are emphasized in the evaluation?",
+      "answer": "The evaluation emphasizes the quality of explanations provided by the models, independent of their predictive performance. It also incorporates a usage-context-driven evaluation framework, specifically adapting the Co-12 framework to address the unique characteristics of prompt-based Natural Language Explanations (NLEs).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3",
+        "https://w3id.org/twc/sudo/kg/section/24de9161-232f-43be-984b-b41fdd77b61d",
+        "https://w3id.org/twc/sudo/kg/section/2f107831-55db-4f90-b20c-8c0fbc8d05f5"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the paper discuss how prompt design choices affect the quality of generated explanations?",
+      "answer": "The paper does not explicitly discuss how prompt design choices affect the quality of generated explanations. However, it mentions that the designer identifies the user prompt and other artifacts for the generative model (E1) and that determining the model type to generate explanations is a crucial first step (E2). This implies that prompt design is an important aspect of the process, but specific effects on explanation quality are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/cd39183e-6d09-4d2e-92ef-aa9059bde8f8",
+        "https://w3id.org/twc/sudo/kg/section/2f107831-55db-4f90-b20c-8c0fbc8d05f5",
+        "https://w3id.org/twc/sudo/kg/section/64cc4184-cfc9-43d6-acbe-91e35a4f6714"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Are different stakeholders or use cases incorporated into the taxonomy?",
+      "answer": "Yes, different stakeholders and use cases are incorporated into the taxonomy. The taxonomy is designed to provide meaningful access to system behavior for diverse stakeholders and supports the practical implementation of principles such as accountability and transparency (E2). Additionally, the versatility of NLEs allows them to be generated for different stakeholders, emphasizing the importance of considering the audience in the context definition (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3",
+        "https://w3id.org/twc/sudo/kg/section/8b1994b7-27dd-454b-bcef-ea829e6c61a4"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What examples or case studies do the authors use to illustrate the taxonomy?",
+      "answer": "The evidence provided does not include specific examples or case studies used by the authors to illustrate the taxonomy. It discusses the need for a taxonomy related to prompt-based NLEs and mentions elements of context definition and problem definition phases, but does not provide concrete case studies or examples.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3",
+        "https://w3id.org/twc/sudo/kg/section/8b1994b7-27dd-454b-bcef-ea829e6c61a4"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "matched_kg_title": "A Taxonomy for Design and Evaluation of Prompt-Based Natural Language Explanations",
+      "paper_id": "a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_taxonomy_for_design_and_evaluation_of_prompt_based_natural_language_explanations",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What limitations or open challenges do the authors identify in designing and evaluating prompt-based natural language explanations?",
+      "answer": "The authors identify limitations and open challenges in designing and evaluating prompt-based natural language explanations (NLEs) related to the need for effective input identification and the adaptation of existing explainable AI (XAI) taxonomies to this context. Specifically, they highlight the importance of understanding user prompts and other artifacts that influence the generative model's output. Additionally, they aim to inform the design and evaluation of NLEs by adapting existing frameworks, indicating a gap in current methodologies.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/44e13a07-d2b4-446b-9f50-18af1adef5d3",
+        "https://w3id.org/twc/sudo/kg/section/cd39183e-6d09-4d2e-92ef-aa9059bde8f8",
+        "https://w3id.org/twc/sudo/kg/section/7801c3d1-0e5b-46fd-b70c-8312ab91630c"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What exactly does BEEXAI benchmark?",
+      "answer": "BEExAI benchmarks and evaluates Explainable AI (XAI) methods on any tabular dataset. It provides a simplified end-to-end pipeline that includes preprocessing, training, explaining, evaluating, and benchmarking these methods.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/4f4c9657-9353-428c-b923-9963a78b3e2c",
+        "https://w3id.org/twc/sudo/kg/sentence/11c57963-63be-4b50-917a-008f10f74932",
+        "https://w3id.org/twc/sudo/kg/section/285d167b-4ee8-417a-8bbf-86d1311fd231"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What tasks, datasets, and model types are included in the benchmark?",
+      "answer": "The benchmark includes two specific tasks: a regression task and a multi-label classification task. It utilizes datasets derived from two benchmarks designed for tabular data, which consist of both numerical features and data with both categorical and numerical features. Additionally, the CC18 benchmark is mentioned as a suite of 72 classification tasks extracted from other datasets from OpenML. The specific model types used in the benchmark are not detailed in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/3fef855c-6c54-492c-8640-e22bbf54a3de",
+        "https://w3id.org/twc/sudo/kg/sentence/576e789f-e19d-4b64-9005-d0520694f0c8",
+        "https://w3id.org/twc/sudo/kg/sentence/54ba4886-b8cd-4f95-9d61-d57e17ddc6ac",
+        "https://w3id.org/twc/sudo/kg/sentence/c5ae8174-dc28-40cc-b6fb-96aaf24489da"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Which categories of explainability methods are evaluated?",
+      "answer": "The evidence does not specify particular categories of explainability methods that are evaluated. It mentions the evaluation and comparison of XAI methods in a general sense, but does not provide details on specific categories.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/b317f60b-9ff4-4948-b823-11b371c643e9",
+        "https://w3id.org/twc/sudo/kg/section/285d167b-4ee8-417a-8bbf-86d1311fd231"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What evaluation criteria or metrics does the benchmark use?",
+      "answer": "The benchmark uses various evaluation metrics to assess explainability in XAI methods, although specific metrics are not detailed in the provided evidence. It emphasizes a simplified and reproducible pipeline for evaluating and comparing XAI methods across different datasets and models. Additionally, it mentions that robustness is easier to quantify than faithfulness and does not require various evaluation metrics. The evaluation process involves averaging results across five different random seeds for dataset sampling, model training, and explainability scores attributions. Furthermore, it notes that measures are taken to prevent unbounded values from affecting the evaluation metrics.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/bbc4775e-042d-4ba9-8b8e-b18aca75dbeb",
+        "https://w3id.org/twc/sudo/kg/section/965fc4d1-27b4-40cb-a71e-bd0c5932577d",
+        "https://w3id.org/twc/sudo/kg/section/35ea314a-1863-45e9-830b-9ced060a9109",
+        "https://w3id.org/twc/sudo/kg/sentence/2fb6817f-c608-4efa-8258-4154c19e2687"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors ensure that the benchmark fairly compares different kinds of explanation methods?",
+      "answer": "The authors ensure a fair comparison of different explanation methods by implementing several strategies. They conduct sanity checks by generating random explainability attributions for each sample, which helps in accurately interpreting evaluation metrics and comparing various XAI methods. Additionally, they utilize the BEExAI framework, which provides a standardized end-to-end pipeline for evaluating and benchmarking XAI methods across any tabular dataset. This framework emphasizes the importance of standardized evaluation approaches to ensure comparability among distinct XAI methods. Finally, they visualize the results using radar charts, facilitating a clearer representation and comparison of the performance of different methods.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/b317f60b-9ff4-4948-b823-11b371c643e9",
+        "https://w3id.org/twc/sudo/kg/section/285d167b-4ee8-417a-8bbf-86d1311fd231",
+        "https://w3id.org/twc/sudo/kg/section/556c05ca-cbbc-4418-8555-4894945de47d"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the benchmark support multiple data modalities?",
+      "answer": "The evidence suggests that the benchmark supports multiple datasets, but it specifically mentions that the datasets are designed for tabular data. There is no explicit mention of support for multiple data modalities beyond this. Therefore, it is unclear if the benchmark accommodates various data modalities.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/f2f070ea-f008-435d-93f6-68623029838b",
+        "https://w3id.org/twc/sudo/kg/section/d56f27ad-fd01-4b65-bc65-6ea43ea292da",
+        "https://w3id.org/twc/sudo/kg/sentence/befe1a2b-e754-4eb8-8227-ede70303dd60",
+        "https://w3id.org/twc/sudo/kg/sentence/576e789f-e19d-4b64-9005-d0520694f0c8"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Are there ground-truth explanation labels or synthetic tasks used to evaluate explanation quality?",
+      "answer": "Yes, the evidence indicates that there are synthetic tasks used to evaluate explanation quality. Specifically, the OpenXAI framework adds synthetic data generation for ground truth comparison, which suggests the use of synthetic tasks in the evaluation process. However, the evidence does not explicitly mention ground-truth explanation labels.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/2fb6817f-c608-4efa-8258-4154c19e2687",
+        "https://w3id.org/twc/sudo/kg/section/285d167b-4ee8-417a-8bbf-86d1311fd231",
+        "https://w3id.org/twc/sudo/kg/section/f2f070ea-f008-435d-93f6-68623029838b"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What baselines are included?",
+      "answer": "The baselines included in the benchmark are configurations, models, and precomputed attributions for a regression task and a multi-label classification task. Other methods like Feature Ablation and Input X Gradient are available in BEExAI but are not included in the benchmarking results to limit the scope of the analysis.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/708664c8-f1d6-4139-b12e-a3ad38d8ec7c",
+        "https://w3id.org/twc/sudo/kg/sentence/3fef855c-6c54-492c-8640-e22bbf54a3de",
+        "https://w3id.org/twc/sudo/kg/sentence/11c57963-63be-4b50-917a-008f10f74932",
+        "https://w3id.org/twc/sudo/kg/sentence/c5ae8174-dc28-40cc-b6fb-96aaf24489da"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What limitations of current XAI evaluation practices is BEEXAI intended to address?",
+      "answer": "BEExAI is intended to address limitations in current XAI evaluation practices by providing a simplified end-to-end pipeline for evaluating and comparing XAI methods on any tabular dataset, which includes preprocessing, training, explaining, evaluating, and benchmarking (E1). Additionally, it offers optimized implementations of XAI evaluation metrics to assess the quality of explanations based on three core desired properties of XAI (E3). This approach aims to overcome challenges faced in the evaluation of XAI methods, as highlighted by the emergence of similar frameworks in recent years (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/285d167b-4ee8-417a-8bbf-86d1311fd231",
+        "https://w3id.org/twc/sudo/kg/section/f2f070ea-f008-435d-93f6-68623029838b"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Beexai: Benchmark to evaluate explainable ai",
+      "matched_kg_title": "Beexai: Benchmark to evaluate explainable ai",
+      "paper_id": "beexai_benchmark_to_evaluate_explainable_ai",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/beexai_benchmark_to_evaluate_explainable_ai",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors envision researchers using BEEXAI for future explainability research and method development?",
+      "answer": "The authors envision researchers using BEExAI to generate benchmarks and compare explainable AI (XAI) methods through an end-to-end pipeline that utilizes selected metrics. They hope that BEExAI will serve as a foundational tool for the research community, contributing to the future development of XAI. Additionally, they suggest that future work could involve integrating various types of explanations, such as rule-based methods, into the BEExAI framework.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/d56f27ad-fd01-4b65-bc65-6ea43ea292da",
+        "https://w3id.org/twc/sudo/kg/section/35ea314a-1863-45e9-830b-9ced060a9109",
+        "https://w3id.org/twc/sudo/kg/section/285d167b-4ee8-417a-8bbf-86d1311fd231"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors define a black box model in the context of explainability?",
+      "answer": "The authors define a black box model in the context of explainability as a model whose internal workings are not transparent or interpretable, making it challenging to understand how it arrives at its predictions. The black box explanation problem involves providing a global explanation of such a model through an interpretable and transparent model (E2). Additionally, the complexity associated with black box models pertains solely to the model itself, rather than the training data, which is often unknown (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/fc340da7-5a77-44cc-995d-1f8bafe6bc3b",
+        "https://w3id.org/twc/sudo/kg/sentence/2d880f83-6c27-4281-a6e4-b3d7113ed788",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/d509e534-f5c8-446f-964b-39f705accb9f"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What taxonomy of black-box explanation methods does the survey propose?",
+      "answer": "The survey proposes a taxonomy of black-box explanation methods based on the type of problem faced and the explanator adopted to open the black box. This classification aims to address the various challenges associated with understanding black box models.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/88df815e-afd0-4ccb-bb75-6347459ea650",
+        "https://w3id.org/twc/sudo/kg/sentence/bb16f2e7-5969-41a8-a6d5-371053ff5fe7",
+        "https://w3id.org/twc/sudo/kg/sentence/16414c74-3432-483e-8053-6edc3a5bf565",
+        "https://w3id.org/twc/sudo/kg/sentence/f78972af-69bd-472f-a543-0f6e198326c0"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the survey distinguish between local and global explanation methods?",
+      "answer": "Yes, the survey distinguishes between local and global explanation methods. It reviews approaches that are either locally or globally interpretable and analyzes methods specifically providing local explanations for black box models. Additionally, it mentions solutions that can act as either global or local explanations.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/82586e7b-368b-4819-8977-f360f2d9ba59",
+        "https://w3id.org/twc/sudo/kg/sentence/b958c768-1109-47b6-87c5-bb9d1dad5fa9",
+        "https://w3id.org/twc/sudo/kg/sentence/a58878c6-c508-40fa-8ff1-e2b5d24700ec",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How does the paper compare model-specific and model-agnostic explanation approaches?",
+      "answer": "The paper discusses model-specific and model-agnostic explanation approaches, highlighting the Local Interpretable Model-agnostic Explanations (LIME) as a key example of a model-agnostic approach. LIME is characterized by its independence from the type of data, the black box model being analyzed, and the specific local predictor or explanation used. This flexibility contrasts with model-specific approaches, which may be limited by their reliance on particular models or data types. Additionally, the paper notes challenges faced by linear models in providing explanations, particularly when they do not optimally fit the training data, leading to the use of spurious features that can be difficult for humans to interpret. However, the evidence does not provide a detailed comparative analysis of the two approaches.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/04447ea6-8cbc-444f-946f-234613b6d90a",
+        "https://w3id.org/twc/sudo/kg/sentence/bb16f2e7-5969-41a8-a6d5-371053ff5fe7",
+        "https://w3id.org/twc/sudo/kg/sentence/55320ca7-f30d-42e8-befa-d7ad97daec26"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Which major explanation methods are covered?",
+      "answer": "The major explanation methods covered include:\n\n1. A method for interpreting Bayesian decision tree ensembles, which involves calculating classification confidence and selecting decision trees based on training data (E1).\n2. Local explanation methods applicable to any type of black box (E2).\n3. A method based on Naive Bayes models for explaining individual predictions of any type of black box (E3).\n4. A rule extraction method for explaining the behavior of neural networks by transforming it into a learning problem (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/f78972af-69bd-472f-a543-0f6e198326c0",
+        "https://w3id.org/twc/sudo/kg/sentence/b958c768-1109-47b6-87c5-bb9d1dad5fa9",
+        "https://w3id.org/twc/sudo/kg/sentence/fc340da7-5a77-44cc-995d-1f8bafe6bc3b",
+        "https://w3id.org/twc/sudo/kg/sentence/e263385b-77a6-4f03-bb60-f83ed336bb2f"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What data modalities and application domains are included in the survey?",
+      "answer": "The survey includes data modalities such as tabular data, images, and textual datasets. The application domains are not explicitly mentioned in the provided evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/279c2745-feb0-4d6c-9e42-a59a52897716",
+        "https://w3id.org/twc/sudo/kg/sentence/45067eb2-8f26-46fb-8ce9-13aed7581b57",
+        "https://w3id.org/twc/sudo/kg/sentence/959b97f3-1c1f-47be-b345-346e9735fe03",
+        "https://w3id.org/twc/sudo/kg/sentence/e4d8c38d-d5c5-460d-9749-ff0a02cff3fb"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the survey discuss how to evaluate the quality of explanations?",
+      "answer": "The survey does not explicitly discuss how to evaluate the quality of explanations. It focuses on classification based on problem types and explanation methods, as well as the distinction between model and outcome explanations, but lacks specific criteria or metrics for evaluating explanation quality.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/88df815e-afd0-4ccb-bb75-6347459ea650",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/d6d1f4c0-59fa-4df5-9700-181e086a2f24",
+        "https://w3id.org/twc/sudo/kg/sentence/ef436ce0-156e-46fb-89bf-1a67dea29d7c"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the paper distinguish between explaining individual predictions, explaining overall model behavior, and explaining the underlying data?",
+      "answer": "Yes, the paper distinguishes between explaining individual predictions, explaining overall model behavior, and explaining the underlying data. It identifies the \"model explanation problem,\" which pertains to understanding the overall logic behind the model, and the \"outcome explanation problem,\" which relates to the correlation between data records and outcome decisions. Additionally, it references methods for explaining individual predictions and the behavior of models using artificial datasets.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/d6d1f4c0-59fa-4df5-9700-181e086a2f24",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/fc340da7-5a77-44cc-995d-1f8bafe6bc3b",
+        "https://w3id.org/twc/sudo/kg/sentence/0b55be75-6720-4d28-9c44-db1c1d83d560"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What limitations, risks, or failure modes of current black-box explanation methods do the authors identify?",
+      "answer": "The evidence provided does not explicitly identify limitations, risks, or failure modes of current black-box explanation methods. It discusses various methods for explaining black boxes, such as SVM and neural networks, but does not detail any specific shortcomings or concerns associated with these techniques. Therefore, the information is insufficient to answer the question regarding limitations or risks.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/sentence/16414c74-3432-483e-8053-6edc3a5bf565",
+        "https://w3id.org/twc/sudo/kg/sentence/b958c768-1109-47b6-87c5-bb9d1dad5fa9",
+        "https://w3id.org/twc/sudo/kg/sentence/fc340da7-5a77-44cc-995d-1f8bafe6bc3b",
+        "https://w3id.org/twc/sudo/kg/sentence/78e0131c-a41e-4df9-8fc9-48dc6c0de0d9"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "A Survey of Methods for Explaining Black Box Models",
+      "matched_kg_title": "A survey of methods for explaining black box models.",
+      "paper_id": "a_survey_of_methods_for_explaining_black_box_models",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/a_survey_of_methods_for_explaining_black_box_models",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What open challenges and future research directions does the survey highlight?",
+      "answer": "The survey highlights open research questions and future research directions in Section 10, which summarizes crucial aspects derived from the analysis of the state of the art. However, specific details regarding the challenges and directions are not provided in the supplied evidence.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/704061ed-aa83-4fc3-a1d0-4af34de0fe24",
+        "https://w3id.org/twc/sudo/kg/sentence/88df815e-afd0-4ccb-bb75-6347459ea650",
+        "https://w3id.org/twc/sudo/kg/sentence/96fddf94-a8d5-453f-abea-204585c6c41a",
+        "https://w3id.org/twc/sudo/kg/sentence/0c3d1e8a-5efd-42cd-bc5f-99c71df57311"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors define AI transparency in the context of large language models?",
+      "answer": "The evidence provided does not contain a specific definition of AI transparency in the context of large language models. Therefore, I cannot provide a definition based on the supplied information.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638",
+        "https://w3id.org/twc/sudo/kg/section/0631d4f7-fff7-4984-9536-c2e22380440f",
+        "https://w3id.org/twc/sudo/kg/section/b0d6d04a-3937-43fa-90e6-0d70dab9179e"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What makes transparency challenges for LLMs different from those for earlier machine learning systems?",
+      "answer": "Transparency challenges for LLMs differ from those for earlier machine learning systems primarily due to the unique complexities introduced by LLMs themselves. These challenges include the need for a more nuanced understanding of informational transparency, as LLMs generate outputs based on vast and intricate datasets, which can complicate users' mental models. Users often have incomplete and unstable mental models, making it difficult for them to grasp the workings of these systems fully. Additionally, the paper emphasizes the necessity of adapting existing transparency approaches, such as model reporting and providing explanations, to better suit the characteristics of LLMs and other large-scale generative models.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638",
+        "https://w3id.org/twc/sudo/kg/section/0726baea-9e77-4ac3-b44d-e7935c1d71a3",
+        "https://w3id.org/twc/sudo/kg/section/2ef4fea6-b075-47fa-9816-2413f4f1bc85"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What does the paper mean by a human-centered research roadmap?",
+      "answer": "A human-centered research roadmap, as described in the paper, refers to a strategic framework aimed at addressing AI transparency by focusing on the unique challenges posed by large language models (LLMs) and synthesizing insights from human-computer interaction (HCI) and responsible AI research. This roadmap emphasizes the importance of understanding human needs, interactions, and the impacts of AI transparency, while exploring existing approaches such as model reporting, publishing evaluation results, providing explanations, and communicating uncertainty.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638",
+        "https://w3id.org/twc/sudo/kg/section/2ef4fea6-b075-47fa-9816-2413f4f1bc85"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "How do the authors distinguish transparency from related concepts such as explainability, interpretability, accountability, and trust?",
+      "answer": "The authors distinguish transparency from related concepts by emphasizing that transparency specifically pertains to the clarity and openness of AI systems, particularly in the context of large language models (LLMs). They highlight the need to disentangle transparency from trust, suggesting that while transparency can support trust, it is not synonymous with it. Additionally, they acknowledge that concepts like explainability, interpretability, accountability, and trust are interconnected but distinct, with transparency serving as a foundational element that informs these other dimensions. The authors also note that various perspectives on transparency, including normative, relational, and social dimensions, have been explored in broader literature, indicating its multifaceted nature. However, they caution that techniques for interpreting LLM behavior may not always yield clear insights, further complicating the relationship between transparency and related concepts.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/5d79ae96-5ff6-45a3-8df0-2ec03ef07bf5",
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638",
+        "https://w3id.org/twc/sudo/kg/section/f48e4806-95c1-40b2-943c-6759a84d7e00"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What kinds of transparency mechanisms for LLMs are discussed?",
+      "answer": "The paper discusses various transparency mechanisms for LLMs, emphasizing that transparency can be required at different levels, including the base model, the LLM-infused application, the application provider, and specific application functions or outputs. Each of these levels may necessitate distinct transparency supports, which are interconnected. Additionally, the paper suggests that different approaches to transparency can enhance control mechanisms for LLMs, although specific mechanisms are not detailed in the provided evidence. The challenges of achieving transparency are highlighted due to the complexity of LLM architectures, such as the transformer model, which remains not fully understood, making traditional interpretative techniques potentially misleading.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/ad947730-1d03-4e6a-b6e7-99fa6e5543a5",
+        "https://w3id.org/twc/sudo/kg/section/f48e4806-95c1-40b2-943c-6759a84d7e00",
+        "https://w3id.org/twc/sudo/kg/section/5d79ae96-5ff6-45a3-8df0-2ec03ef07bf5",
+        "https://w3id.org/twc/sudo/kg/section/7e48a774-15e9-40b1-adeb-14271a61a5df"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What user needs or harms motivate the proposed roadmap?",
+      "answer": "The proposed roadmap is motivated by several user needs and harms associated with large language models (LLMs). These include:\n\n1. **Discrimination and Hate Speech**: Addressing risks related to encoded language that may perpetuate discrimination, exclusion, and hate speech.\n2. **Information Hazards**: Mitigating threats to privacy and security, particularly concerning the leakage of sensitive information.\n3. **Misinformation**: Preventing the dissemination of false, misleading, or poor-quality information that can harm users.\n4. **Malicious Uses**: Tackling harms from the malicious application of LLMs, such as facilitating fraud, cybersecurity attacks, and censorship.\n5. **User Trust Exploitation**: Recognizing the dangers of human-like interactions that may lead to unsafe use and exploitation of user trust.\n6. **Socio-Economic Harms**: Addressing broader environmental and socio-economic impacts, including increasing inequality and negative effects on the labor market.\n\nAdditionally, the roadmap reflects on the human-centered needs and interactions with AI, emphasizing the importance of transparency in addressing these harms and enhancing user experiences.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/b0d6d04a-3937-43fa-90e6-0d70dab9179e",
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What does the paper suggest evaluating?",
+      "answer": "The paper suggests evaluating different approaches to achieve transparency in the context of AI and human-computer interaction (HCI), emphasizing the importance of a human-centered perspective that involves stakeholders and their goals in the design and evaluation of transparency approaches. Additionally, it mentions the evaluation of aggregate metrics such as accuracy in relation to trust levels.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/e51019cf-883d-4785-a541-e97551bd5b56",
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638",
+        "https://w3id.org/twc/sudo/kg/section/eb66376b-4a37-4efa-b35e-c3157c30d575"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "Does the roadmap address tensions between transparency, usability, privacy, safety, and intellectual property?",
+      "answer": "The evidence provided does not explicitly address tensions between transparency, usability, privacy, safety, and intellectual property. While the roadmap discusses transparency and its relationship with user trust, it does not detail how these factors interact or conflict with each other. Therefore, the evidence is insufficient to conclude that the roadmap addresses these tensions comprehensively.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638",
+        "https://w3id.org/twc/sudo/kg/section/eb66376b-4a37-4efa-b35e-c3157c30d575",
+        "https://w3id.org/twc/sudo/kg/section/e51019cf-883d-4785-a541-e97551bd5b56",
+        "https://w3id.org/twc/sudo/kg/section/5d79ae96-5ff6-45a3-8df0-2ec03ef07bf5"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What research gaps do the authors identify for human-centered transparency in LLM systems?",
+      "answer": "The authors identify several research gaps for human-centered transparency in LLM systems, including the need to identify LLM stakeholder roles and support their specific transparency needs based on role, task, and context (E1). They also emphasize the importance of mapping out a human-centered research roadmap for transparency in the context of AI and human-computer interaction (E3). Additionally, they reflect on lessons learned from HCI and Responsible AI/FATE research, highlighting the necessity to focus on human needs, interactions, and the impact of AI transparency (E4).",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/eb66376b-4a37-4efa-b35e-c3157c30d575",
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    },
+    {
+      "paper_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "matched_kg_title": "Ai transparency in the age of llms: A human-centered research roadmap",
+      "paper_id": "ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "paper_uri": "https://w3id.org/twc/sudo/kg/paper/ai_transparency_in_the_age_of_llms_a_human_centered_research_roadmap",
+      "mapping_method": "exact",
+      "mapping_score": 1.0,
+      "question": "What concrete recommendations or agenda items does the roadmap propose for future explainability and transparency research?",
+      "answer": "The roadmap proposes several concrete recommendations for future research on explainability and transparency in AI, particularly in the context of large language models (LLMs). These include:\n\n1. **Model Reporting**: Developing standardized practices for reporting on AI models.\n2. **Publishing Evaluation Results**: Encouraging the publication of evaluation outcomes to enhance accountability.\n3. **Providing Explanations**: Focusing on generating clear and understandable explanations for AI decisions.\n4. **Communicating Uncertainty**: Emphasizing the importance of effectively communicating the uncertainties associated with AI outputs.\n\nThese recommendations are derived from synthesizing lessons learned from human-computer interaction (HCI) and fairness, accountability, and transparency (FATE) research.",
+      "attribute_uris": [
+        "https://w3id.org/twc/sudo/kg/section/2ef4fea6-b075-47fa-9816-2413f4f1bc85",
+        "https://w3id.org/twc/sudo/kg/section/56e1ff6e-33ab-4ba1-8bb9-da14c8223638",
+        "https://w3id.org/twc/sudo/kg/section/ff2f3de2-22ab-4afb-855c-f5f889a03975"
+      ],
+      "answer_mode": "openrouter",
+      "error": null
+    }
+  ]
+}
